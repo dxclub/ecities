@@ -4,3 +4,5 @@ Download the **ecities.csv** file and the **ecities.jpg** image. Open the CSV fi
 **NOTE:** Do not look at the data_generator.py until after completing the challenge (unless stuck), the person of interest is listed on the comments in the code!
 
 Hope you enjoy this fun and simple challenge! Good luck!
+
+Created by Luis Plascencia
